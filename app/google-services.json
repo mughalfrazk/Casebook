@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237453071817",
+    "firebase_url": "https://case-book-b310f.firebaseio.com",
+    "project_id": "case-book-b310f",
+    "storage_bucket": "case-book-b310f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237453071817:android:37eace506818da0a188418",
+        "android_client_info": {
+          "package_name": "com.android.casebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237453071817-v3pphgn1jp8gpa7jis28594fvj7g25ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casebook",
+            "certificate_hash": "8730a40ce9ba134f349c31bc179621e074a1c05d"
+          }
+        },
+        {
+          "client_id": "237453071817-aqq6vth4q5oi7aa7g44bnduu5fhgrotp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAso0T6RzkLPbKHbFGF1wQvbvshVBP9xRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237453071817-aqq6vth4q5oi7aa7g44bnduu5fhgrotp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6331BD</color>
+    <color name="colorPrimaryDark">#46169A</color>
+    <color name="colorAccent">#FF7347</color>
+    <color name="colorAccentSecondary">#FF4B14</color>
+    <color name="calendarCell">#FFC9B8</color>
+    <color name="todayDate">#FF4B14</color>
+    <color name="fields">#7748E4</color>
+</resources>

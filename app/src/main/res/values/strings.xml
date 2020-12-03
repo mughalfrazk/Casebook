@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lawyer\'s Case Diary</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_for_cases">Search for Cases</string>
+    <string name="cancel">Cancel</string>
+    <string name="reminder_switch">Switch</string>
+    <string name="tab_text_1">Today Cases</string>
+    <string name="tab_text_2">Adjourned Cases</string>
+    <string name="title_activity_view_date_selected">ViewDateSelected</string>
+    <string name="title_activity_tabbed_dates">TabbedDates</string>
+</resources>
